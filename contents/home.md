@@ -5,7 +5,7 @@
 He is currently a student in the Sun Yat-sen University. 
 #### Contact
 
-Email:  [liuhan25[at]mail2.sysu.edu.cn](mailto:liuhan25[at]mail2.sysu.edu.cn)
+Email:  [liuhan25@mail2.sysu.edu.cn](mailto:liuhan25@mail2.sysu.edu.cn)
 
 #### Education
 B.E.(expected), Software Engineering, Sun Yat-sen University, 2024—.\
