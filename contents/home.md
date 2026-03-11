@@ -5,11 +5,11 @@
 He is currently a student in the Sun Yat-sen University. 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email:  [liuhan25[at]mail2.sysu.edu.cn](mailto:liuhan25[at]mail2.sysu.edu.cn)
 
 #### Education
 B.E.(expected), Software Engineering, Sun Yat-sen University, 2024—.\
-
+(to be continued...)
 
 #### Research Interests
 Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
