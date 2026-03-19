@@ -1,7 +1,7 @@
 ---
 title: Draft 样例
 published: 2022-07-01
-tags: [Markdown, Demo]
+tags: ['全部文章',Markdown, Demo]
 category: 博客指南
 draft: true
 ---

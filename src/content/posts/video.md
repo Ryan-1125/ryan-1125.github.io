@@ -1,8 +1,8 @@
 ---
-title: 在博客里导入视频
+title: 如何在博客里导入视频
 published: 2023-08-01
 description: This post demonstrates how to include embedded video in a blog post.
-tags: [Example]
+tags: ['全部文章',Example]
 category: 博客指南
 draft: false
 ---

@@ -3,7 +3,7 @@ title: 重生之我要当镇上最强药贩子
 published: 2025-07-26
 description: 炼金术士的时间黑洞：《药剂工艺》里那些藏在细节里的天才巧思
 image: ''    #./cover.png
-tags: ['游戏']
+tags: ['全部文章','游戏']
 category: 浮生戏语
 draft: false
 lang: ''
