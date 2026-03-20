@@ -58,6 +58,11 @@ export const profileConfig: ProfileConfig = {
 	bio: "去走上一座山吧，走在夕阳下",
 	links: [
 		{
+			name: "notes",
+			icon: "cib:bamboo",
+			url: "https://notes.papership.top",
+		},
+		{
 			name: "X",
 			icon: "fa6-brands:x-twitter", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
