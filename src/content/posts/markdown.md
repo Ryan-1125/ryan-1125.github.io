@@ -3,7 +3,7 @@ title: Markdown 样例
 published: 2023-10-01
 description: A simple example of a Markdown blog post.
 tags: ['全部文章',Markdown, Demo]
-category: '博客指南'
+category: '幼鸟指南'
 draft: false
 ---
 

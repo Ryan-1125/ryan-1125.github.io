@@ -3,7 +3,7 @@ title: 富有表现力的代码示例
 published: 2024-04-10
 description: How code blocks look in Markdown using Expressive Code.
 tags: ['全部文章',Markdown,  Demo]
-category: 博客指南
+category: 幼鸟指南
 draft: false
 ---
 

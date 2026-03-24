@@ -4,7 +4,7 @@ published: 2024-04-01
 description: "How to use this blog template."
 image: ""   #./cover.jpeg
 tags: ["Fuwari", "Customization"]
-category: 博客指南
+category: 幼鸟指南
 draft: false
 ---
 
