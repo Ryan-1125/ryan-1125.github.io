@@ -6,6 +6,8 @@
 
 // 1. 从 Astro 内容集合中读取数据工具
 import { getEntry, render } from "astro:content";
+// 5. 导入评论区功能
+import Comment from "@components/Comment.astro";
 // 2. 导入博客自带的 Markdown 渲染组件
 import Markdown from "@components/misc/Markdown.astro";
 // 3. 导入国际化相关配置（多语言标题）
@@ -105,4 +107,7 @@ const { friends = [], myInfo } = friendEntry.data;
 
         </div>
     </div>
+    
+    <Comment />
+
 </MainGridLayout>
