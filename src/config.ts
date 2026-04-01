@@ -59,7 +59,7 @@ export const profileConfig: ProfileConfig = {
 	bio: "去走上一座山吧，走在夕阳下",
 	links: [
 		{
-			name: "notes",
+			name: "Notes",
 			icon: "cib:bamboo",
 			url: "https://notes.papership.top",
 		},
@@ -69,16 +69,16 @@ export const profileConfig: ProfileConfig = {
 			url: "https://space.bilibili.com/510746790?spm_id_from=333.1007.0.0",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://steamcommunity.com/profiles/76561199722712686/",
+			name: "NeteaseMusic",
+			icon: "ri:netease-cloud-music-fill",
+			url: "https://music.163.com/#/user/home?id=1606919932",
 		},
 		{
-			name: "GitHub",
-			icon: "fa6-brands:github", // Visit https://icones.js.org/ for icon codes
+			name: "Steam",
+			icon: "fa6-brands:steam", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://github.com/Ryan-1125",
+			url: "https://steamcommunity.com/profiles/76561199722712686/",
 		},
 	],
 };
@@ -92,7 +92,7 @@ export const licenseConfig: LicenseConfig = {
 export const expressiveCodeConfig: ExpressiveCodeConfig = {
 	// Note: Some styles (such as background color) are being overridden, see the astro.config.mjs file.
 	// Please select a dark theme, as this blog theme currently only supports dark background color
-	theme: "github-light",
+	theme: "github-dark",
 };
 
 // Comment configuration for Giscus.
